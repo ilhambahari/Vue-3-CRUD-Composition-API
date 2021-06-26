@@ -1,5 +1,14 @@
-Backend Laravel
-1. Composer Install
-2. command : php artisan key:generate
-3. command : php artisan migrate
-4. php artisan serve
+# Use Laravel for Backend
+
+**Composer install**
+ 
+    composer install
+    
+**Generate Key**
+ 
+    php artisan key:generate
+    
+**Generate table**
+
+    php artisan migrate
+
